@@ -1,70 +1,178 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
+<div id="readme-top" align="center">
+<div >
+<img src="https://cdn-icons-png.flaticon.com/512/1163/1163665.png?w=1060&t=st=1681086929~exp=1681087529~hmac=6554944fa510c8fdc4fc0cc8e512dee891d6205b05e865d9dfa08ff837f0acb8"
+alt="Logo" width="80" height="80">
+</div>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    Weather React App
+</h1>
+<p align="center">
+    A simple search place - discover weather
+    <br />
+</p>
 
-## Available Scripts
+<p align="center">
+<a href="#about-the-project">About The Project</a>
+&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#built-with">Built With</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#getting-started">Getting Started</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#project-tree">Project Tree</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#usage">Acknowledgments</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-In the project directory, you can run:
+<p align="center">
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelCOlor=000000"></img>
+</p>
+</div>
 
-### `npm start`
+<!-- ABOUT THE PROJECT -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## About The Project
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Product Name Screen Shot][product-screenshot]
 
-### `npm test`
+An address search and weather display application. With a simple and pleasant design, it is a suitable project for beginners. Differentials:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Query the external API
+- React useState hooks
+- Conditional rendering
+- Programming logic
+- Very great design
+- Deploy on AWS
 
-### `npm run build`
+<p align="right"><a href="#readme-top">back to top</a></p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- BUILT WITH -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This section should list any major frameworks/libraries used in project.
 
-### `npm run eject`
+- ![REACT]
+- ![HTML5]
+- ![CSS3]
+- ![JS]
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<p align="right"><a href="#readme-top">back to top</a></p>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<!-- GETTING STARTED -->
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+These instructions provide a clear and simple step-by-step, which is intended to help users understand accessing and configuring.
 
-## Learn More
+1. Clone the repo
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+   ```sh
+   git clone https://github.com/cristianmeelo/react-app-weather-forecast
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   ```
 
-### Code Splitting
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run project
+   ```sh
+   npm start
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<p align="right"><a href="#readme-top">back to top</a></p>
 
-### Analyzing the Bundle Size
+<!-- USAGE EXAMPLES -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Usage
 
-### Making a Progressive Web App
+Consulting the weather is more than just a daily habit; it's an opportunity to connect with nature and prepare for what's to come. Observing changes in the weather can help us plan our activities and protect against extreme weather events.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+It is an empowering feeling to know that we have the ability to anticipate the weather and adapt to it. When we query the weather, we can visualize the dynamics of the natural world and appreciate the beauty of climate variation. The sense of satisfaction that comes with being prepared for a sunny day or a downpour cannot be overstated. </br> ` - chat GPT`
 
-### Advanced Configuration
+<div align="center">
+<a href="https://main.djy7mq3o9u8gp.amplifyapp.com/">
+<img src="https://img.shields.io/badge/demo-see%20the%20app-blue" alt="badge-usage" >
+</div>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<div align="center">
+<img src="./src/assets/image-site.png" alt="Logo">
+</div>
+</br>
 
-### Deployment
+<p align="right"><a href="#readme-top">back to top</a></p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!-- PROJECT  Tree -->
 
-### `npm run build` fails to minify
+## Project Tree
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+react-app-weather-forecast
+└─ weather-app-react
+   ├─ README.md
+   ├─ package-lock.json
+   ├─ package.json
+   ├─ public
+   │  └─ index.html
+   └─ src
+      ├─ App.js
+      ├─ assets
+      │  ├─ go-live.png
+      │  ├─ image-site.png
+      │  ├─ live-server.png
+      │  └─ sunset.jpg
+      ├─ index.css
+      └─ index.js
+
+```
+
+<p align="right"><a href="#readme-top">back to top</a></p>
+
+<!-- ACKNOWLEDGMENTS -->
+
+## Acknowledgments
+
+This space list helpful resources and credits.
+
+- [API Reference][referencial-doc]
+- [Video Tutorial][tutorial-video]
+- [Github Clint Briley][partner-github]
+
+<p align="right"><a href="#readme-top">back to top</a></p>
+
+<p align="center">
+.
+<br/>
+.
+<br/>
+.
+<br/>
+.
+<br/>
+<br/>
+with ❤️
+<a href="https://www.linkedin.com/in/cristian-melo/">
+ Cristian Melo
+</a>
+</p>
+</div>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+<!-- IMAGES -->
+
+[product-screenshot]: https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80fit=crop&w=1598&q=80
+
+<!-- LINKS -->
+
+[referencial-doc]: https://openweathermap.org/
+[tutorial-video]: https://www.youtube.com/watch?v=UjeXpct3p7M&t=615s&ab_channel=CodeCommerce
+[partner-github]: https://github.com/fireclint
+
+<!-- SHIELDS -->
+
+[react]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[html5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[css3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[js]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
