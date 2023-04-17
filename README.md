@@ -34,6 +34,6 @@ To open and run the project, run `npm i` to install the dependencies and `npm st
 
 Then go to <a href="http://localhost:3000/">http://localhost:3000/</a> in your browser.
 
-## 📚 More course information
+## 📚 More tutorial information
 
 Fakeshop is an application for weather consultation by location, developed from the tutorial [Code Commerce](https://www.youtube.com/@codecommerce). The main idea behind the implementation of this tutorial is to further evolve knowledge in React and the api query tool, managing states with useState for conditional rendering based on the return.
