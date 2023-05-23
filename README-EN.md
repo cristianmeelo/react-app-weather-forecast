@@ -13,13 +13,13 @@
 
 ![](https://github.com/cristianmeelo/react-app-weather-forecast/blob/main/thumbnail-en.png?raw=true#vitrinedev)
 
-# PokeNext
+# Weather React App
 
 This is a reinterpretation of the [pokedex](https://pokemon.fandom.com/pt-br/wiki/Pok%C3%A9dex) developed with [nextJS](https://nextjs.org/).
 
-<img src="screencapture.gif" alt="Image App" >
+<img src="screencapture.png" alt="Image App" >
 <div align="center">
-<a href="https://pokenext-agraq7zr3-cristianmeelo.vercel.app/">
+<a href="https://react-app-weather-forecast.vercel.app/">
   <img src="https://img.shields.io/badge/-check%20here-lightgrey"
   alt="Image App" >
 </a>
@@ -27,7 +27,11 @@ This is a reinterpretation of the [pokedex](https://pokemon.fandom.com/pt-br/wik
 
 ## 🔨 Project features
 
-Developed with the powerful NextJS framework, on one page, you have access to all second generation pokémon, bringing the details of a pokémon's attributes by clicking on "details". A Pokedex is an electronic device featured in the Pokémon game and anime series that serves as a digital encyclopedia for all known species of Pokémon. It contains detailed information about each Pokémon, such as its name, number in registration order, type, abilities, battle statistics, possible evolutions, where it can be found, and other resources. In this interpretation, you can see your number, pokémon types, weight and height!
+An address lookup and weather display app. With a simple and nice design, it is a suitable project for beginners.
+
+Consulting the weather is more than a daily habit; it's an opportunity to connect with nature and prepare for what's to come. Observing changes in the weather can help us plan our activities and protect against extreme weather events.
+
+It's an empowering feeling to know that we have the ability to anticipate the weather and adapt to it. When we query the weather, we can visualize the dynamics of the natural world and appreciate the beauty of climate variation. The sense of satisfaction of being prepared for a sunny day or a downpour cannot be overstated.
 
 ## ⚙️ Techniques and technologies used
 
@@ -48,12 +52,15 @@ Then go to <a href="http://localhost:3000/">http://localhost:3000/</a> in your b
 
 ## 📚 More tutorial information
 
-PokeNext is an application for pokemons consultation, developed from the tutorial [Matheus Battisti](https://www.youtube.com/@MatheusBattisti).
-The main idea of ​​this tutorial implementation is to learn and develop the concepts of the nextjs framework, one of the current darlings in the market. The format of working with modular CSS is interesting, as css overlapping problems are stipulated. Individual item access is also different. I conclude that nextJs and SSR can be powerful, but needs to be trained a lot, especially when migrating. It resembles the react query.
+An address lookup and weather display app. With a simple and nice design, it is a suitable project for beginners.
 
-| :placard: Vitrine.Dev |                                                                                          |
-| --------------------- | ---------------------------------------------------------------------------------------- |
-| :sparkles: Name       | **PokeNext**                                                                             |
-| :label: Technologies  | NextJS, TypeScript, CSS Module, Next Route,Vercel Deployment,GitHub ( used Technologies) |
-| :rocket: URL          | https://pokenext-agraq7zr3-cristianmeelo.vercel.app/                                     |
-| :fire: Challenge      | https://www.youtube.com/watch?v=Zc0NrkoEqgI&ab_channel=MatheusBattisti-HoradeCodar       |
+Consulting the weather is more than a daily habit; it's an opportunity to connect with nature and prepare for what's to come. Observing changes in the weather can help us plan our activities and protect against extreme weather events.
+
+Weather React App is an application to query weather by location, developed from the tutorial [Code Commerce](https://www.youtube.com/@codecommerce). The main idea behind this tutorial's implementation is to further advance knowledge in React and the query api tool by managing states with useState for conditional rendering based on the return.
+
+| :placard: Vitrine.Dev |                                                                            |
+| --------------------- | -------------------------------------------------------------------------- |
+| :sparkles: Name       | **Weather React App**                                                      |
+| :label: Technologies  | React, Javascript, Axios, CSS, GitHub ( used Technologies)                 |
+| :rocket: URL          | https://react-app-weather-forecast.vercel.app/                             |
+| :fire: Challenge      | https://www.youtube.com/watch?v=UjeXpct3p7M&t=615s&ab_channel=CodeCommerce |
