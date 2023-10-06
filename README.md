@@ -11,18 +11,21 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/react-app-weather-forecast/blob/main/thumbnail.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/react-app-weather-forecast/blob/main/thumbnail.png?raw=true)
+
+![](https://github.com/cristianmeelo/react-app-weather-forecast/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+
+<div align="center">
+<a href="https://react-app-weather-forecast.vercel.app/">
+  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-lightblue" alt="Image App" >
+</a>
+</div>
+
+<br/>
 
 # Weather React App
 
 Um simples aplicação de consultar endereço e descobrir o clima. Encontre dados de clima da sua cidade ou de qualquer outro local do mundo.
-
-<img src="screencapture.png" alt="Image App" >
-<div align="center">
-<a href="https://react-app-weather-forecast.vercel.app/">
-  <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
-</a>
-</div>
 
 ## 🔨 Recursos do projeto
 

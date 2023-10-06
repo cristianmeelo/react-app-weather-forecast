@@ -11,19 +11,22 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/react-app-weather-forecast/blob/main/thumbnail-en.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/react-app-weather-forecast/blob/main/thumbnail-en.png?raw=true)
+
+![](https://github.com/cristianmeelo/react-app-weather-forecast/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
+
+<div align="center">
+<a href="https://react-app-weather-forecast.vercel.app/">
+  <img src="https://img.shields.io/badge/-CHECK%20HERE-lightblue"
+  alt="Image App" >
+</a>
+</div>
+
+<br/>
 
 # Weather React App
 
 This is a reinterpretation of the [pokedex](https://pokemon.fandom.com/pt-br/wiki/Pok%C3%A9dex) developed with [nextJS](https://nextjs.org/).
-
-<img src="screencapture.png" alt="Image App" >
-<div align="center">
-<a href="https://react-app-weather-forecast.vercel.app/">
-  <img src="https://img.shields.io/badge/-check%20here-lightgrey"
-  alt="Image App" >
-</a>
-</div>
 
 ## 🔨 Project features
 
